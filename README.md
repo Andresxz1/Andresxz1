@@ -12,7 +12,7 @@ Desenvolvedor Back-End com formação técnica pelo **IFSP** e atualmente gradua
 - 🍎 Jovem Aprendiz na **Apple**, atuando com automação e suporte administrativo no time de sales operations.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **FIAP** (2026 – 2027).
 - 💻 Técnico em Informática para Internet formado pelo **IFSP – Campus São Miguel Paulista**.
-- 🔬 Bolsista de Iniciação Científica (PIBIFSP), pesquisando "MaratonIF: Programação Competitiva como Ferramenta Pedagógica" (ago/2025 – mai/2026) — projeto que nasceu da minha atuação como instrutor de Algoritmos para turmas de Olimpíadas Científicas (OBI), voltado à programação competitiva como ferramenta de aprendizado (C/Python/Java).
+- 🔬 Bolsista de Iniciação Científica (PIBIFSP), pesquisando "MaratonIF: Programação Competitiva como Ferramenta Pedagógica" (ago/2025 – mai/2026) — projeto que nasceu da minha atuação como instrutor de Algoritmos para turmas de Olimpíadas Científicas (OBI) e maratonas de programação (InterIF), voltado à programação competitiva como ferramenta de aprendizado (C/Python/Java).
 - ⚙️ Atualmente aprofundando meus conhecimentos em **Node.js**, **APIs REST** e **Arquitetura de Software**.
 - 📫 Como me encontrar: [andresrafael.s10@gmail.com](mailto:andresrafael.s10@gmail.com)
 
